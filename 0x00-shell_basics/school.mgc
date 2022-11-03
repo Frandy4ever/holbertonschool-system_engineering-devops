@@ -1,0 +1,2 @@
+#!/bin/bash
+!:mime school/SCHOOL # creates a file school.mgc that cat be uses to detect School data file containing string SCHOOL at offset 0.
