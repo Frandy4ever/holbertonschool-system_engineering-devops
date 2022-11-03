@@ -1,2 +1,2 @@
 #!/bin/bash
-su -u betty # switch to work as user betty
+su  -u betty zsh # switch to work as user betty
