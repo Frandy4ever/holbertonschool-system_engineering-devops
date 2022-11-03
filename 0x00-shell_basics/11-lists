@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -al ./ ../ /boot
+ls -al . .. /boot  # lists all files, including hidden ones, in current dir, its parent dir and another given dir.
