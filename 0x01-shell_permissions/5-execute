@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod u+x hello # Adds execution permissions to file hello for the user
