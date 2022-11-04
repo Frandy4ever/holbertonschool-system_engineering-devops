@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod 007 hello # gives all permissions to others but none to user and group
