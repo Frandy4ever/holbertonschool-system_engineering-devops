@@ -1,0 +1,2 @@
+#!/bin/bash
+chmod a+x hello # adds execute permissions to everybody
