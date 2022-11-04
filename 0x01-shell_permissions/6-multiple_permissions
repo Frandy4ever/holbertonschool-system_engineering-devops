@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 114 # Gives execution permissions to user and group and read to other users
+chmod 114 hello # Gives execution permissions to user and group and read to other users
