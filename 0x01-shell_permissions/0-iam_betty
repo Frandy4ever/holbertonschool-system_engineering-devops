@@ -1,2 +1,2 @@
 #!/bin/bash
-su -l betty # switch to work as user betty
+su -l betty # switches from current user to user betty
